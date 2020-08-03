@@ -3,7 +3,7 @@
 
 
 # ข้อ 1
-
+# In[ ]:
 
 
 duck = lambda x: x/3

@@ -4,6 +4,7 @@
 
 #1
 
+# In[ ]:
 
 a = int(input("Please input number : "))
 if a == 0:

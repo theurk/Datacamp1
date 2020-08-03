@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # 1
-
+# In[ ]:
 
 lst = ['Akarapone', 'Akeattapon', 30]
 print(lst)
